@@ -71,6 +71,17 @@ Currículo
 **outros**
   - nginx ★★★
 
+Escala:
+
+<sub>★ sei fazer as operações básicas</sub>
+
+<sub>★★ sei operações um pouco mais complexas</sub>
+
+<sub>★★★ sei fazer a maior parte das operações</sub>
+
+<sub>★★★★ conheço a maioria dos recursos avançados disponíveis</sub>
+
+<sub>★★★★★ conheço o código, e posso construir módulos se necessário</sub>
 
 ## Breve história profissional
 
