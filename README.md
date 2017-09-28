@@ -14,7 +14,7 @@ Currículo
 **moradia:** Rio de Janeiro, Méier.  
 
 **github:** https://github.com/luizamboni/  
-**npm:**https://www.npmjs.com/~luizzamboni  
+**npm:** https://www.npmjs.com/~luizzamboni  
 **rubyGems:** https://rubygems.org/profiles/luiz_zamboni  
 
 ## Formação
