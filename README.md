@@ -3,19 +3,19 @@ Currículo
 
 ## Resumo
 
-  Profissional devOps com experiência em tecnologias e arquiteturas voltadas a microsserviços.
-
-  Com histórico de contribuições para open-sources, cultura de TDD e scrum.
-  
+  Profissional devOps com experiência em tecnologias e arquiteturas voltadas a microsserviços.  
+  Com histórico de contribuições para open-sources, cultura de TDD e scrum.  
   Busca colocação onde possa aplicar esta experiência na arquitetura de microsserviços
 
 ## Dados pessoais
 
-**nome:** Luiz Carlos Zamboni
+**nome:** Luiz Carlos Zamboni  
+**nascimento:** 26-01-2017  
+**moradia:** Rio de Janeiro, Méier.  
 
-**nascimento:** 26-01-2017
-
-**moradia:** Rio de Janeiro, Méier.
+**github:** https://github.com/luizamboni/  
+**npm:**https://www.npmjs.com/~luizzamboni  
+**rubyGems:** https://rubygems.org/profiles/luiz_zamboni  
 
 ## Formação
 
@@ -68,20 +68,20 @@ Currículo
   - athena ★★★
   - elasticbeanstalk ★★★★
 
-**outros**
+**Outros**
   - nginx ★★★
 
-Escala:
 
-<sub>★ sei fazer as operações básicas</sub>
+<sub>
 
-<sub>★★ sei operações um pouco mais complexas</sub>
+**Escala**  
 
-<sub>★★★ sei fazer a maior parte das operações</sub>
-
-<sub>★★★★ conheço a maioria dos recursos avançados disponíveis</sub>
-
-<sub>★★★★★ conheço o código, e posso construir módulos se necessário</sub>
+★ sei fazer as operações básicas  
+★★ sei operações um pouco mais complexas  
+★★★ sei fazer a maior parte das operações  
+★★★★ conheço a maioria dos recursos disponíveis  
+★★★★★ conheço o código, posso construir módulos se necessário
+</sub>
 
 ## Breve história profissional
 
