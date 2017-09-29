@@ -3,8 +3,8 @@ Currículo
 
 ## Resumo
 
-  Profissional devOps com experiência em tecnologias e arquiteturas voltadas a microsserviços.  
-  Com histórico de contribuições para open-sources, cultura de TDD e scrum.  
+  Profissional com experiência em devOps e arquiteturas voltadas a microsserviços.  
+  Com histórico de contribuições para open-sources, cultura ágil e TDD.  
   Busca colocação onde possa aplicar esta experiência na arquitetura de microsserviços
 
 ## Dados pessoais
@@ -12,6 +12,8 @@ Currículo
 **Nome:** Luiz Carlos Zamboni  
 **Nascimento:** 26-01-2017  
 **Moradia:** Rio de Janeiro, Méier.  
+**Email:** luizamboni2002@hotmail.com  
+**Telefone:** 21 98727 2099
 
 **github:** https://github.com/luizamboni/  
 **npm:** https://www.npmjs.com/~luizzamboni  
@@ -19,16 +21,23 @@ Currículo
 
 ## Formação
 
-  - Desenho Industrial (Estácio presencial)
-  - Engenharia Mecânica até o 4 período (Estácio, presencial) 
-  - Análise de Sistemas (Estácio EAD, concluíndo)
+  - Desenho Industrial <sub> (2005 - 2011 Estácio presencial)</sub>
+  - Engenharia Mecânica até o 4 período <sub> (2011 - 2013 Estácio, presencial</sub>) 
+  - Análise de Sistemas <sub> (2015 - 2018 Estácio EAD, concluíndo)</sub>
 
 ## Experiências relevantes
 
-  - telelistas.net (2011 - 2014)
-  - fullab como prestador de serviços (2015 - 2016) 
-  - b2w (2016 - atual)
-  - ExerciciosResolvidos.net (próprio)
+### Telelistas.net <sub>(2011 - 2014)</sub>  
+ Atuou na áre de novos negócios, contruindo aplicações em Rails para propósitos diversos, back-end e frond-end
+
+### fullab <sub>(2015 - 2016)</sub>  
+  Como prestador de serviços, desenvolvendo aplicação para tracking de preços, comparação e política de precifiação, back-end e front-end.
+  Também auxiliou no desenvolvimento nativo para dispositivos móveis (Android).
+
+### B2W <sub>(2016 - atual)</sub>  
+  Integra o core team da plataforma B2WADS, desenvolvendo microsserviços em node com as mais diversas responsabilidades.
+
+### exerciciosresolvidos.net (próprio)
 
 ## Conhecimentos
 
