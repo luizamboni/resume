@@ -10,7 +10,7 @@ Currículo
 ## Dados pessoais
 
 **Nome:** Luiz Carlos Zamboni  
-**Nascimento:** 26-01-2017  
+**Nascimento:** 26-01-2017 <-----------------------  
 **Moradia:** Rio de Janeiro, Méier.  
 **Email:** luizamboni2002@hotmail.com  
 **Telefone:** 21 98727 2099
