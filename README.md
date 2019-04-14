@@ -2,9 +2,9 @@ Currículo
 ===
 
 ## Resume
-  A professional with devOps experience and microsservices architectures.
-  History of contibutios of open-sources, agile culture and TDD.
-  Guesting a positiong where can apply these experiences in creative solutions.  
+A developer also with devOps experience, and an enthusiast of microservices architecture. My portfolio includes a good history of open-source contributions, 
+Agile culture and TDD. I'm currently looking for a position where I can apply these experiences so as to deliver value with creative solutions.
+
 
 
 ## Personal Informations
@@ -23,7 +23,7 @@ Currículo
 
   - Industrial Design <sub> (2005 - 2011)</sub>
   - Mecanic Engenier till 4 rd semester <sub> (2011 - 2013 Estácio)</sub>
-  - Systems Analysis <sub> (2015 - 2018 Estácio EAD, concluíndo)</sub>
+  - Systems Analysis <sub> (2015 - 2018 Estácio EAD)</sub>
 
 ## Relevant experiences
 
